@@ -1,6 +1,6 @@
 from flask import Flask
 from flask import render_template
-from wsgi import wsgi
+from flask-example import flask-example
 app = Flask(__name__)
 
 
